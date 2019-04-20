@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaiTapEXE4</string>
+    <string name="hint_phone">Enter a number phone</string>
+    <string name="hint_mess">Enter a text message</string>
+    <string name="btn_send">Gởi</string>
+    <string name="btn_call">Gọi</string>
+    <string name="btn_dial">Quay Số</string>
+</resources>
